@@ -1,86 +1,49 @@
 # 03 — Individual Reflection
 
-> Viết bằng lời của bạn (Phase 7 trong `01-worksheet.md`). Có thể dùng AI gợi ý câu hỏi tự soi, không dùng AI viết thay. 8-12 câu, có chuyện cụ thể.
-
 ## Thông tin cá nhân
 
-- Họ và tên:
-- Mã học viên:
-- Nhóm:
-- Candidate problem nhóm chọn:
-
----
+- Họ và tên: Trần Đình Duy
+- Mã học viên: 2A202602631
+- Nhóm: 
+- Candidate problem nhóm chọn: Chuẩn hóa requirement của lab/assignment thành task và checklist tiến độ.
 
 ## 1. Tôi đã tham gia vào phần nào?
 
-Ghi việc cụ thể + kết quả cụ thể. Không ghi chung chung kiểu "tham gia thảo luận".
-
-| Hoạt động | Tôi đã làm gì? (việc cụ thể) | Kết quả / ảnh hưởng tới nhóm |
+| Hoạt động | Tôi đã làm gì? | Kết quả / ảnh hưởng |
 |---|---|---|
-| Scan cá nhân | | |
-| Pitch Problem Card | | |
-| Challenge bài của bạn khác | | |
-| Gom trùng / cluster | | |
-| Chọn candidate problem | | |
-| Validation / research | | |
-| Workflow nhóm | | |
-| Problem Statement | | |
-| Rule / Workflow / Agent | | |
-| Decision | | |
+| Scan cá nhân | Lập 12 problems từ bối cảnh học lab, tự học AI, quản lý deadline và debug code. | Có danh sách đủ rộng để so sánh trước khi chọn solution. |
+| Pitch Problem Card | Chuẩn bị Card #1 về requirement-to-task. | Đưa discussion về actor, workflow và metric. |
+| Challenge bài của bạn khác | Chưa có biên bản pitch/challenge trong workspace. | Cần bổ sung tên người, câu hỏi và kết quả thực tế. |
+| Gom trùng / cluster | Đề xuất gom guide, tìm tài liệu và quản lý task thành nhóm information-to-action. | Giúp phân biệt pain đọc hiểu với pain theo dõi tiến độ. |
+| Chọn candidate problem | Đề xuất ưu tiên requirement-to-task vì có output và non-AI alternative rõ. | Giữ scope đủ nhỏ cho một pilot. |
+| Validation / research | Xác định baseline cần đo trên 3 assignment và nguồn cần kiểm tra. | Không dùng số liệu khảo sát khi chưa có dữ liệu thật. |
+| Workflow nhóm | Mô tả current/future flow và điểm sinh viên review. | Làm rõ boundary và fallback. |
+| Problem Statement | Nhấn mạnh metric phải có baseline, target và cách đo. | Tránh biến bài toán thành trợ lý học tập toàn năng. |
+| Rule / Workflow / Agent | Lập luận chọn Rule + Workflow, chưa cần Agent. | Giảm scope và permission risk. |
+| Decision | Chưa có biên bản đồng thuận cuối trong workspace. | Nhóm cần xác nhận Go/Not Yet/No-Go trước khi nộp. |
 
-**Dấu tay rõ nhất của tôi trong artifact cuối (1-2 câu):**
+**Dấu tay rõ nhất:** Tôi tách “AI gợi ý task” khỏi “sinh viên xác nhận requirement”. Output sai không được phép trở thành lý do đánh dấu hoàn thành hoặc nộp bài.
 
-```text
-
-```
-
----
-
-## 2. Bảng dùng AI (mỗi dòng 1 phase có dùng AI — 2 cột cuối bắt buộc)
+## 2. Bảng dùng AI
 
 | Phase | Tôi dùng AI để làm gì? | AI hữu ích ở đâu? | AI sai / hời hợt ở đâu? | Tôi sửa gì bằng nhận định của mình? |
 |---|---|---|---|---|
-| Scan | | | | |
-| Problem Card | | | | |
-| Workflow | | | | |
-| Research | | | | |
-| Problem Statement | | | | |
-| Rule / Workflow / Agent | | | | |
-| Decision | | | | |
+| Scan | Gợi ý thêm góc nhìn sau khi tự scan. | Gợi ý pain về search và quản lý task. | Đưa ý quá rộng, thiếu evidence. | Bỏ ý không có actor/workflow cụ thể. |
+| Problem Card | Phản biện scope và metric. | Nhắc thêm non-AI alternative và human review. | Hay nhảy sang Agent. | Giữ checklist/template làm baseline. |
+| Workflow | Kiểm tra handoff và fallback. | Giúp nhìn rõ AI chỉ tạo draft. | Có thể tự thêm bước chưa quan sát. | Chỉ giữ bước có trong workflow thật và gắn nhãn cần đo. |
+| Research | Chưa dùng AI để tạo claim hoặc số liệu. | Không áp dụng. | Chưa có link research nhóm trong workspace. | Cần kiểm nguồn trước khi nộp. |
+| Problem Statement | Đặt câu hỏi phản biện, không viết thay. | Nhắc phải có baseline, target và boundary. | Đề xuất metric đẹp nhưng khó đo. | Ghi metric là giả thuyết cần baseline. |
+| Rule / Workflow / Agent | So sánh trade-off. | Giúp diễn đạt vì sao Agent quá rộng. | Ưu tiên solution phức tạp. | Chọn mức thấp nhất đủ dùng. |
+| Decision | Không dùng AI để chốt thay nhóm. | Không áp dụng. | Chưa có biên bản quyết định thật. | Nhóm phải xác nhận bằng evidence/giả định. |
 
-> Nếu phase nào không dùng AI, ghi `Không dùng` và vì sao tự làm.
+## 3. Reflection
 
----
+Khi tự scan, tôi nhận ra nhiều vấn đề không bắt đầu từ việc cần một chatbot mà từ việc phải nối nhiều bước nhỏ: đọc guide, chia task, tìm tài liệu và kiểm tra trước khi nộp. Tôi chọn requirement-to-task vì actor rõ, workflow có thể vẽ và có phương án không dùng AI là checklist. Điều khó nhất là không biến một pain nhỏ thành “trợ lý học tập toàn năng”; AI chỉ nên gợi ý cấu trúc task, còn sinh viên phải kiểm tra requirement. Tôi cũng nhận ra metric “nhanh hơn” chưa đủ, vì task nhanh nhưng thiếu requirement vẫn là thất bại. Vì vậy cần đo cả thời gian planning và số requirement bị bỏ sót trên assignment cụ thể. AI hữu ích khi đặt câu hỏi phản biện, nhưng không thể thay log, interview hoặc survey thật. Các hoạt động pitch, challenge và quyết định nhóm chưa có biên bản trong workspace nên tôi không điền như thể chúng đã xảy ra. Nếu làm lại, tôi sẽ ghi ngay thời lượng pitch, câu hỏi challenge, người được hỏi và kết quả validation. Tôi cũng sẽ chạy thử một template không dùng AI trước để biết AI có tạo thêm giá trị hay chỉ làm đẹp quy trình. Bài học chính là phải đi theo mạch problem -> workflow -> metric -> boundary -> mức AI phù hợp.
 
-## 3. Reflection câu hỏi mở
+## 4. Tự kiểm cuối bài
 
-Chọn 3-4 câu trong 6 câu dưới để viết thành đoạn 8-12 câu (không trả lời bullet 1 dòng):
-- Tôi học được gì khi nghe top 3 problems của các bạn khác?
-- Nhóm có lúc nào bị solution-first, đòi làm Agent cho ngầu không?
-- Tôi có thay đổi ý kiến sau khi bị challenge không, vì sao đổi?
-- Tôi đóng góp gì thật sự vào artifact cuối, phần nào có dấu tay của tôi?
-- Điều khó nhất khi viết Problem Statement là gì, metric hay boundary?
-- Nếu làm lại, tôi sẽ challenge nhóm mạnh hơn ở điểm nào?
-
-**Reflection:**
-
-```text
-
-
-
-```
-
----
-
-## 4. Tự kiểm cuối bài (check trước khi nộp repo)
-
-- [ ] [12đ] Cá nhân có 5+ problems + top 3 Problem Cards
-- [ ] [12đ] Tôi đã pitch rõ + challenge nhóm đúng trọng tâm (ghi ở bảng mục 1)
-- [ ] Nhóm có nhật ký hội tụ từ candidates về 1 bài
-- [ ] [15đ] Nhóm có workflow trước/sau
-- [ ] [20đ] Nhóm có PS v0/v1 với metric + boundary rõ
-- [ ] [15đ] Nhóm có so sánh No AI / Rule / Workflow / Agent
-- [ ] [10đ] Nhóm có Go / Not Yet / No-Go + lý do rõ
-- [ ] [10đ] Reflection này có vai trò thật + AI giúp/sai ở đâu + điều học được + nếu làm lại đổi gì
-- [ ] [6đ] Tôi tự giải thích được mạch problem → workflow → metric → boundary → độ phù hợp AI
-
+- [x] Có 5+ problems và top 3 Problem Cards.
+- [x] Đã chuẩn bị pitch và câu hỏi challenge.
+- [ ] Đã ghi biên bản pitch/challenge thật: cần bổ sung.
+- [x] Reflection có vai trò, cách dùng AI, điểm AI sai và điều học được.
+- [ ] Cần nhóm xác nhận candidate problem và quyết định cuối.
