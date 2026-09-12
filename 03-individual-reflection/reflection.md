@@ -4,7 +4,7 @@
 
 - Họ và tên: Trần Đình Duy
 - Mã học viên: 2A202602631
-- Nhóm: 
+- Nhóm: 67
 - Candidate problem nhóm chọn: Chuẩn hóa requirement của lab/assignment thành task và checklist tiến độ.
 
 ## 1. Tôi đã tham gia vào phần nào?
